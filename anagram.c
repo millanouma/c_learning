@@ -8,6 +8,7 @@ int main() {
   char s1[] = "code";
 
   char s2[] = "deco";
+  
   int size_s1 = strlen(s1);
  for(int i = 0; i < size_s1; i++){
    if(s1[i] == 'a'){

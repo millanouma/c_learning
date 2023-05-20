@@ -1,0 +1,11 @@
+# This is a simple random number generator for a dice game.
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void) {
+  srand(time(NULL));
+  // Write your code below
+  int randomNumber = rand() % 20 + 1;
+  printf("%d\n", randomNumber);
+}

@@ -19,3 +19,4 @@ We will then loop through both strings and update their respective counters.
 We will then compare the two counters to see if the two strings are anagrams and if they are, we will print “Anagram!”. If they are not, we will print “Not Anagram!”
 
 Let’s get started!!
+trying out the git command line
